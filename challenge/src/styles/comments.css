@@ -1,0 +1,222 @@
+.likeSize {
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+}
+.user {
+  width: 80px;
+  height: 80px;
+}
+.userInfo {
+  display: flex;
+  gap: 16px;
+  /* justify-content: center; */
+  align-items: center;
+}
+.nameColor {
+  color: #d8d7ce;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 24px;
+}
+.timeColor {
+  color: #858479;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+.commentStyle {
+  color: #d8d7ce;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  line-height: 20px;
+}
+.yellow {
+  color: #c5af19;
+  font-weight: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.positive {
+  color: #858479;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.titleSection {
+  color: #d8d7ce;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.commentBox {
+  display: flex;
+  flex-direction: row;
+  min-height: 140px;
+  gap: 16px;
+  width: 752px;
+  border-bottom: 1px solid #858479;
+  margin-top: 27px;
+}
+.side {
+  text-align: left;
+}
+.buttonMas {
+  text-align: center;
+  border: 2px solid #d8d7ce;
+  border-radius: 4px;
+  background-color: #0000;
+  color: #d8d7ce;
+  width: 180px;
+  margin-top: 34px;
+}
+.anotherTitle {
+  margin-top: 34px;
+  color: #d8d7ce;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.moreContent {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 752px;
+  align-items: center;
+  gap: 16px;
+  color: #d8d7ce;
+  margin: 14px 0;
+}
+.moreContent div {
+  max-width: 368px;
+  width: 100%;
+  border-bottom: 1px solid #1d1a05;
+  padding-bottom: 10px;
+}
+.moreContent div p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  align-items: flex-end;
+  text-transform: uppercase;
+  color: #d8d7ce;
+}
+#date {
+  color: #858479;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 13px;
+}
+#button {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #f1f1f1;
+  border: 2px solid #f1f1f1;
+  background-color: unset;
+  margin-top: 14px;
+  margin-bottom: 45px;
+}
+#nearlyFooter {
+  background-image: url('../assets/back.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 98vw;
+  width: 100vw;
+  height: 344px;
+}
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#h3 {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 37px;
+  margin-bottom: 51px;
+  max-width: 749px;
+}
+#htwo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+#footerOne {
+  margin-top: 46px;
+  gap: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+#socials {
+  width: 24px;
+  height: 24px;
+}
+#footerTwo {
+  display: flex;
+  gap: 39px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #858479;
+  border-top: 1px solid #858479;
+  padding: 24px;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

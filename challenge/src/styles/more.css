@@ -1,0 +1,82 @@
+.picture {
+  width: 368px;
+  height: 188px;
+  border-radius: 4px;
+}
+.inputs {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  color: #d8d7ce;
+}
+.imgBox {
+  display: flex;
+  height: 188px;
+  gap: 16px;
+}
+.cursos {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #d8d7ce;
+  margin-top: 41px;
+  margin-bottom: 19px;
+}
+.infos {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 32px;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #d8d7ce;
+  margin-top: 40px;
+  margin-bottom: 32px;
+}
+.input {
+  width: 368px;
+  height: 40px;
+  padding: 10px 16px 10px 16px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  color: #d8d7ce;
+}
+select {
+  width: 368px;
+  height: 40px;
+  margin-right: 16px;
+  padding: 10px 16px 10px 16px;
+  text-transform: uppercase;
+  color: #d8d7ce;
+  border-radius: 4px;
+}
+label {
+  /* height: 24px; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #858479;
+  text-transform: none;
+}
+.check {
+  gap: 16px;
+  width: 380px;
+}
+.fixing {
+  display: flex;
+  margin-left: 150px;
+  gap: 16px;
+}
+.buttonBox {
+  display: flex;
+  justify-content: center;
+}

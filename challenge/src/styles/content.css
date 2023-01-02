@@ -1,0 +1,14 @@
+.icons img {
+  width: 150px;
+  height: 180px;
+}
+h2 {
+  color: #fff;
+  text-transform: uppercase;
+}
+.order {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
