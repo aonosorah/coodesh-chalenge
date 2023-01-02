@@ -2,8 +2,6 @@
 ## Objetivo
 Avaliar a capacidade de escrever código limpo, bem estruturado e reutilizável. Com o objetivo principal de seguir o figma indicado (desktop e mobile).
 
-## Visualize a Aplicação
-[Veja a Aplicação](triforsys-challenge.surge.sh)
 
 ## Ferramentas Utilizadas
 - React.Js 
